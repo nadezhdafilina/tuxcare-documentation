@@ -8,8 +8,8 @@ Endless Lifecycle Support (ELS) for Libraries from TuxCare provides security fix
 * **anyio** 3.7.1
 * **certifi** 2021.10.8, 2022.12.7, 2023.7.22
 * **cryptography** 3.4.8, 41.0.7, 42.0.0, 42.0.8, 43.0.1, 43.0.3
-* **deepdiff** 6.2.3* 
-* **dnspython** 2.3.0** 
+* **deepdiff** 6.2.3 
+* **dnspython** 2.3.0 
 * **flask-cors** 4.0.2
 * **future** 1.0.0
 * **GitPython** 3.1.31
@@ -478,7 +478,7 @@ Fixes for the following vulnerabilities are available in ELS for Python Librarie
 | CVE-2024-5206  | Medium   | 1.0.2               | 1.0.2.post1+tuxcare  |
 
   </template>
-
+  
   <template #setuptools>
 
 | CVE ID         | Severity | Vulnerable Versions | Safe Version         |
